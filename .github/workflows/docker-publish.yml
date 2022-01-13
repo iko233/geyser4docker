@@ -10,7 +10,7 @@ on:
     branches: [ main ]
     
 env:
-  IMAGE_NAME: bitchigo/gayser
+  IMAGE_NAME: bitchigo/geyser
   VERSION: 1.18.1
 
 
